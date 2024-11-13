@@ -26,7 +26,6 @@
 </head>
 <body>
    <center><h1> My Login Page</h1></center>
-    <h2> Welcome to Gopalakrishna</h2>
     <center>
     <form>
         <label for="username">Username:</label>
