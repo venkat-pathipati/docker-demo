@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-   <center><h1> CS Login Page 7</h1></center>
+   <center><h1> CS Login Page 8</h1></center>
     <center>
     <form>
         <label for="username">Username:</label>
